@@ -20,12 +20,12 @@ img {
 
 @font-face {
     font-family: "Bahnschrift";
-    src: url(/Bahnschrift.ttf);
+    src: url("../fonts/Bahnschrift.ttf");
 }
 
 @font-face {
     font-family: "Comfortaa";
-    src: url(/Comfortaa-VariableFont_wght.ttf);
+    src: url("../fonts/Comfortaa-VariableFont_wght.ttf");
 }
 
 p,
