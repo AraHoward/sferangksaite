@@ -452,7 +452,7 @@ body.menu-open .mobile-nav .panel {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("/img/headlinev3.webp"), linear-gradient(rgba(0, 40, 120, 0.5));
+    background-image: url("./img/headlinev3.webp"), linear-gradient(rgba(0, 40, 120, 0.5));
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
